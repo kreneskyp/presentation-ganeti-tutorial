@@ -1,4 +1,4 @@
-!SLIDE list transition=fade
+!SLIDE list
 
 # Releases 
 
@@ -8,7 +8,7 @@
 * Version 0.6 - 03-04-2011
 * Version 0.7 - _06-17-2011_
 
-!SLIDE smbullets list transition=fade
+!SLIDE smbullets list
 
 # Open Sourced Libraries
 
